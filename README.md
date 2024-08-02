@@ -1,7 +1,5 @@
 - Hi, I’m Yarosurawa/Yaro
-- I’M NOT LOOKING FOR COLLABORATIONS RIGHT NOW!
 - I’m interested in Programming, video games, and food(?).
-- I’m currently learning back-end development on nodejs
 - You can reach me on my dicord - Yarosurawa#3974 , or on on my telegram - https://t.me/Yarosurawa
 - here's also my email, but I probably will miss your message there - yarosurawa@gmail.com
 
